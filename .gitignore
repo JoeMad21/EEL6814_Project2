@@ -210,3 +210,15 @@ sae_tuner/sae_tuning/trial_0003/checkpoint
 sae_tuner/sae_tuning/trial_0003/checkpoint.data-00000-of-00001
 sae_tuner/sae_tuning/trial_0003/checkpoint.index
 sae_tuner/sae_tuning/trial_0003/trial.json
+sae_ce_tuner/sae_ce_tuning/oracle.json
+sae_ce_tuner/sae_ce_tuning/tuner0.json
+sae_ce_tuner/sae_ce_tuning/trial_0000/checkpoint
+sae_ce_tuner/sae_ce_tuning/trial_0000/checkpoint.data-00000-of-00001
+sae_ce_tuner/sae_ce_tuning/trial_0000/checkpoint.index
+sae_ce_tuner/sae_ce_tuning/trial_0000/trial.json
+sae_ce_tuner/sae_ce_tuning/trial_0001/trial.json
+sae_ce_tuner/sae_ce_tuning/trial_0002/trial.json
+sae_ce_tuner/sae_ce_tuning/trial_0003/checkpoint
+sae_ce_tuner/sae_ce_tuning/trial_0003/checkpoint.data-00000-of-00001
+sae_ce_tuner/sae_ce_tuning/trial_0003/checkpoint.index
+sae_ce_tuner/sae_ce_tuning/trial_0003/trial.json
